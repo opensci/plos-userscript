@@ -1,6 +1,6 @@
 // ==UserScript== //
 
-// @name Hello World
+// @name ALM Extra
 
 // @namespace http://www.plosone.org
 
