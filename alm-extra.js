@@ -6,11 +6,9 @@
 
 // @description Test
 
-// @include *
+// @include http://www.plosone.org
 
 // ==/UserScript==
-
-// test
 
 
 <script src="http://code.jquery.com/jquery-2.1.1.min.js">
